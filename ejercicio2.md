@@ -12,3 +12,21 @@ promedio = total / 6
 mostrar ID, total, promedio
 Fin
 ```
+
+
+## Ejercio 3
+pagina 43 
+una empresa importadora desea detrminar cuántos dólares puede adquirir con equis cantidad de dinero colombiano. Realice un diagrama de flujo y Pseudocódigo que represente el algoritmo para tal fin.
+
+## pseudocódigo
+
+```
+IniciO
+X = cantidad_de_dinero_colombiano
+D = preci-dolar_en_pesos_colombianos 
+Leer x
+total_dolar = X / D
+mostrar total
+Fin
+```
+
