@@ -12,7 +12,9 @@ promedio = total / 6
 mostrar ID, total, promedio
 Fin
 ```
+## Diagrama de flujo
 
+![alt text](<Imagenes/Captura de pantalla 2025-08-05 171559.png>)
 
 ## Ejercio 3
 pagina 43 
@@ -26,7 +28,9 @@ X = cantidad_de_dinero_colombiano
 D = preci-dolar_en_pesos_colombianos 
 Leer x
 total_dolar = X / D
-mostrar total
+mostrar total_dolar
 Fin
 ```
+## Diagrama de flujo
+![alt text](<Imagenes/Captura de pantalla 2025-08-05 173530.png>)
 
